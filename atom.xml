@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>余生</title>
+  
+  <subtitle>以梦为马，明日天涯。。。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.healthinto.com/"/>
+  <updated>2019-04-29T08:22:50.786Z</updated>
+  <id>http://blog.healthinto.com/</id>
+  
+  <author>
+    <name>zhangq</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> python常用方法</title>
+    <link href="http://blog.healthinto.com/2019/04/29/Python/python%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    <id>http://blog.healthinto.com/2019/04/29/Python/python常用方法/</id>
+    <published>2019-04-29T08:22:14.000Z</published>
+    <updated>2019-04-29T08:22:50.786Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容未完成，敬请期待</p><a id="more"></a><h3 id="python字符串截取子串"><a href="#python字符串截取子串" class="headerlink" title="python字符串截取子串"></a>python字符串截取子串</h3><p><a href="https://blog.csdn.net/qingzhuyuxian/article/details/79882088" target="_blank" rel="noopener">https://blog.csdn.net/qingzhuyuxian/article/details/79882088</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容未完成，敬请期待&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title> python 遍历目录(包括子目录)下所有文件</title>
+    <link href="http://blog.healthinto.com/2019/04/29/Python/python-%E9%81%8D%E5%8E%86%E7%9B%AE%E5%BD%95-%E5%8C%85%E6%8B%AC%E5%AD%90%E7%9B%AE%E5%BD%95-%E4%B8%8B%E6%89%80%E6%9C%89%E6%96%87%E4%BB%B6/"/>
+    <id>http://blog.healthinto.com/2019/04/29/Python/python-遍历目录-包括子目录-下所有文件/</id>
+    <published>2019-04-29T08:21:16.000Z</published>
+    <updated>2019-04-29T08:21:40.336Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容未完成，敬请期待</p><a id="more"></a><p><a href="https://blog.csdn.net/liubenq/article/details/79026991" target="_blank" rel="noopener">https://blog.csdn.net/liubenq/article/details/79026991</a></p><p><a href="http://bookshadow.com/weblog/2014/10/02/python-mkdir-p/" target="_blank" rel="noopener">http://bookshadow.com/weblog/2014/10/02/python-mkdir-p/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容未完成，敬请期待&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vue-混入 (mixin)</title>
+    <link href="http://blog.healthinto.com/2019/04/29/Vue/Vue-%E6%B7%B7%E5%85%A5-mixin/"/>
+    <id>http://blog.healthinto.com/2019/04/29/Vue/Vue-混入-mixin/</id>
+    <published>2019-04-29T07:27:21.000Z</published>
+    <updated>2019-04-29T08:20:06.368Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容未完成，敬请期待</p><a id="more"></a><p><a href="https://cn.vuejs.org/v2/guide/mixins.html" target="_blank" rel="noopener">https://cn.vuejs.org/v2/guide/mixins.html</a></p><p><a href="https://www.deboy.cn/Vue-mixins-advance-tips.html" target="_blank" rel="noopener">https://www.deboy.cn/Vue-mixins-advance-tips.html</a></p><p><a href="https://www.cnblogs.com/heioray/p/6888982.html" target="_blank" rel="noopener">https://www.cnblogs.com/heioray/p/6888982.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容未完成，敬请期待&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>兄弟组件通信</title>
+    <link href="http://blog.healthinto.com/2019/04/28/Vue/%E5%85%84%E5%BC%9F%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/"/>
+    <id>http://blog.healthinto.com/2019/04/28/Vue/兄弟组件通信/</id>
+    <published>2019-04-28T15:54:09.000Z</published>
+    <updated>2019-04-30T08:33:30.499Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容未完成，敬请期待</p><a id="more"></a><blockquote><p><a href="https://blog.csdn.net/tang422622/article/details/86534587" target="_blank" rel="noopener">传送门</a></p></blockquote><h3 id="vuex实现兄弟组件之间传值-不使用Vuex"><a href="#vuex实现兄弟组件之间传值-不使用Vuex" class="headerlink" title="vuex实现兄弟组件之间传值(不使用Vuex)"></a>vuex实现兄弟组件之间传值(不使用Vuex)</h3><p>在一些正规的大型项目的企业级开发过程中我们一般会引入Vuex来对Vue所有组件进行状态管理，可以轻松实现各组件间的通信。但是有时候做做自己的小项目，没有必要使用Vuex时，如何简单的实现组件间的通信？父组件与子组件间就不说了，关于兄弟组件间通信，这里有个简单方法。</p><p>1.新建eventHub.js，new一个Vue实例：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">import Vue from &apos;vue&apos;;</span><br><span class="line">export default new Vue;</span><br></pre></td></tr></table></figure><p>2.需要通信的组件都引入该 eventHub.js</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">import Bus from &apos;@/util/eventHub&apos;;</span><br></pre></td></tr></table></figure><p>3.调用Bus的触发事件和监听事件实现通信</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Bus.$emit(&apos;changeIndex&apos;, index);</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Bus.$on(&apos;changeIndex&apos;, (index) =&gt; &#123;</span><br><span class="line">  this.navIndex = index;</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure><p>这里的 eventHub.js可以理解为是公共汽车，这个bus的作用就是行驶在各个组件之间从而实现组件间通信、参数传递，写起来也比较方便，这种实现方式Vue官网也有介绍,<br><code>可以通过单独的事件中心管理组件间的通信：eventHub</code></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容未完成，敬请期待&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Vue" scheme="http://blog.healthinto.com/categories/Vue/"/>
+    
+      <category term="Vuex" scheme="http://blog.healthinto.com/categories/Vue/Vuex/"/>
+    
+    
+      <category term="Vue" scheme="http://blog.healthinto.com/tags/Vue/"/>
+    
+      <category term="Vuex" scheme="http://blog.healthinto.com/tags/Vuex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows系统，如何查看正在被使用的文件（夹）被占用情况</title>
+    <link href="http://blog.healthinto.com/2019/04/28/Windows/Windows%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E6%AD%A3%E5%9C%A8%E8%A2%AB%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%EF%BC%88%E5%A4%B9%EF%BC%89%E8%A2%AB%E5%8D%A0%E7%94%A8%E6%83%85%E5%86%B5/"/>
+    <id>http://blog.healthinto.com/2019/04/28/Windows/Windows系统，如何查看正在被使用的文件（夹）被占用情况/</id>
+    <published>2019-04-28T15:15:30.000Z</published>
+    <updated>2019-04-29T08:13:28.883Z</updated>
+    
+    <content type="html"><![CDATA[<p>内容未完成，敬请期待</p><a id="more"></a><p><a href="https://blog.csdn.net/csdnliuxin123524/article/details/77890709" target="_blank" rel="noopener">https://blog.csdn.net/csdnliuxin123524/article/details/77890709</a></p><p>每当我们要删除文件或文件夹时，经常会出现文件因为正在被占用而导致无法删除，如图：</p><p><img src="img/001.jpg"></p><p>如果当你必须要删除这个文件（夹），却又不知道被哪个程序占用，可用如下方法：<br>打开windows的任务管理器 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;内容未完成，敬请期待&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Windows" scheme="http://blog.healthinto.com/categories/Windows/"/>
+    
+    
+      <category term="Windows" scheme="http://blog.healthinto.com/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建Hexo参考的博客链接</title>
+    <link href="http://blog.healthinto.com/2019/04/26/Hexo/%E6%90%AD%E5%BB%BAHexo%E5%8F%82%E8%80%83%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5/"/>
+    <id>http://blog.healthinto.com/2019/04/26/Hexo/搭建Hexo参考的博客链接/</id>
+    <published>2019-04-26T14:58:33.000Z</published>
+    <updated>2019-04-28T15:48:20.249Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="输入密码，查看文章。" />    <label for="pass">输入密码，查看文章。</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      这是一篇加密文章，内容可能是个人情感宣泄或者收费技术。如果你确实想看，请与我联系。
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/tags/Hexo/"/>
+    
+      <category term="博客框架" scheme="http://blog.healthinto.com/tags/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo入坑记录</title>
+    <link href="http://blog.healthinto.com/2019/04/26/Hexo/Hexo%E5%85%A5%E5%9D%91%E8%AE%B0%E5%BD%95/"/>
+    <id>http://blog.healthinto.com/2019/04/26/Hexo/Hexo入坑记录/</id>
+    <published>2019-04-26T14:31:32.000Z</published>
+    <updated>2019-04-28T15:47:36.349Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Github删除了CNAME文件后，还是会重定向到之前的域名地址"><a href="#Github删除了CNAME文件后，还是会重定向到之前的域名地址" class="headerlink" title="Github删除了CNAME文件后，还是会重定向到之前的域名地址"></a>Github删除了CNAME文件后，还是会重定向到之前的域名地址</h3><p>解决方案：<br>    Github的托管服务只是发送一个重定向,会在浏览器留下缓存。清一次缓存就好了。</p><h3 id="使用Hexo-d-命令后报错-ERROR-Deployer-not-found-git"><a href="#使用Hexo-d-命令后报错-ERROR-Deployer-not-found-git" class="headerlink" title="使用Hexo d 命令后报错 ERROR Deployer not found: git"></a>使用Hexo d 命令后报错 <code>ERROR Deployer not found: git</code></h3><p>解决方案：<br>    <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-deployer-git</span><br></pre></td></tr></table></figure></p><p>即可。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Github删除了CNAME文件后，还是会重定向到之前的域名地址&quot;&gt;&lt;a href=&quot;#Github删除了CNAME文件后，还是会重定向到之前的域名地址&quot; class=&quot;headerlink&quot; title=&quot;Github删除了CNAME文件后，还是会重定向到之前的
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/tags/Hexo/"/>
+    
+      <category term="博客框架" scheme="http://blog.healthinto.com/tags/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo中添加本地图片</title>
+    <link href="http://blog.healthinto.com/2019/04/26/Hexo/Hexo%E4%B8%AD%E6%B7%BB%E5%8A%A0%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87/"/>
+    <id>http://blog.healthinto.com/2019/04/26/Hexo/Hexo中添加本地图片/</id>
+    <published>2019-04-26T13:52:41.000Z</published>
+    <updated>2019-04-28T15:47:29.506Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="First"><a href="#First" class="headerlink" title="First"></a>First</h1><p>1 把主页配置文件<code>_config.yml</code> 里的<code>post_asset_folder</code>:这个选项设置为<code>true</code><br>2 在你的hexo目录下执行这样一句话<code>npm install hexo-asset-image --save</code>，这是下载安装一个可以上传本地图片的插件，来自dalao：<a href="https://github.com/dangxuandev/hexo-asset-image" target="_blank" rel="noopener">dalao的git</a><br>3 等待一小段时间后，再运行<code>hexo n &quot;xxxx&quot;</code>来生成md博文时，<code>/source/_posts</code>文件夹内除了<code>xxxx.md</code>文件还有一个同名的文件夹<br>4 最后在<code>xxxx.md</code>中想引入图片时，先把图片复制到xxxx这个文件夹中，然后只需要在xxxx.md中按照markdown的格式引入图片：<code>![你想输入的替代文字](xxxx/图片名.jpg)</code></p><blockquote><p>注意： xxxx是这个md文件的名字，也是同名文件夹的名字。只需要有文件夹名字即可，不需要有什么绝对路径。你想引入的图片就只需要放入xxxx这个文件夹内就好了，很像引用相对路径。<br>5 最后检查一下，<code>hexo g</code>生成页面后，进入<code>public\2017\02\26\index.html</code>文件中查看相关字段，可以发现，html标签内的语句是<code>&lt;img src=&quot;2017/02/26/xxxx/图片名.jpg&quot;&gt;</code>，而不是<code>&lt;img src=&quot;xxxx/图片名.jpg&gt;</code>。这很重要，关乎你的网页是否可以真正加载你想插入的图片</p></blockquote><h1 id="Second"><a href="#Second" class="headerlink" title="Second"></a>Second</h1><p>1 本地source中建立img文件夹<br>2 在<code>xxxx.md</code>中想引入图片时,格式为<code>&lt;img src=&quot;img/图片名.jpg&gt;</code></p><h1 id="Third"><a href="#Third" class="headerlink" title="Third"></a>Third</h1><p>图床，不太稳定。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;First&quot;&gt;&lt;a href=&quot;#First&quot; class=&quot;headerlink&quot; title=&quot;First&quot;&gt;&lt;/a&gt;First&lt;/h1&gt;&lt;p&gt;1 把主页配置文件&lt;code&gt;_config.yml&lt;/code&gt; 里的&lt;code&gt;post_asset_folde
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/tags/Hexo/"/>
+    
+      <category term="博客框架" scheme="http://blog.healthinto.com/tags/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo设置主题以及Next主题个性设置</title>
+    <link href="http://blog.healthinto.com/2019/04/26/Hexo/Hexo%E8%AE%BE%E7%BD%AE%E4%B8%BB%E9%A2%98%E4%BB%A5%E5%8F%8ANext%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E8%AE%BE%E7%BD%AE/"/>
+    <id>http://blog.healthinto.com/2019/04/26/Hexo/Hexo设置主题以及Next主题个性设置/</id>
+    <published>2019-04-26T13:40:25.000Z</published>
+    <updated>2019-04-28T15:47:44.207Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h3><p>cd在你的博客目录下，比如我的：D:\GitHub\Project\blog，右键点击Git Bash Here，输入如下命令：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/stiekel/hexo-theme-random.git themes/random</span><br><span class="line">//你喜欢的主题GitHub路径  回车</span><br></pre></td></tr></table></figure></p><p>然后修改博客的主配置文件_config.yml（使用Sublime Text 3 打开），将主题设置为 <code>random</code>：<br><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">random</span></span><br></pre></td></tr></table></figure></p><p>其实每个主题，在他的GitHub中都有详细的文档，按照它的走好吧！告诉你支持什么，添加什么等等。</p><p>修改之后提交，在博客项目路径下（D:\GitHub\Project\blog）提交，流程如下：今后不管修改博客还是修改配置都是这个流程</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br><span class="line">$ hexo generate</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;更换主题&quot;&gt;&lt;a href=&quot;#更换主题&quot; class=&quot;headerlink&quot; title=&quot;更换主题&quot;&gt;&lt;/a&gt;更换主题&lt;/h3&gt;&lt;p&gt;cd在你的博客目录下，比如我的：D:\GitHub\Project\blog，右键点击Git Bash Here，输入如下命
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/tags/Hexo/"/>
+    
+      <category term="博客框架" scheme="http://blog.healthinto.com/tags/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo快速入门</title>
+    <link href="http://blog.healthinto.com/2019/04/24/Hexo/Hexo%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
+    <id>http://blog.healthinto.com/2019/04/24/Hexo/Hexo快速入门/</id>
+    <published>2019-04-24T00:31:32.000Z</published>
+    <updated>2019-04-29T08:12:10.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>该篇文章为Hexo搭建的教程</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;该篇文章为Hexo搭建的教程&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://blog.healthinto.com/tags/Hexo/"/>
+    
+      <category term="博客框架" scheme="http://blog.healthinto.com/tags/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+</feed>
